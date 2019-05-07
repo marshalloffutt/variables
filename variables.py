@@ -49,3 +49,5 @@ corrected_jerry = weird_jerry.lstrip()
 corrected_larry = weird_larry.rstrip()
 
 print(corrected_jerry + " and " + corrected_larry + " are best buds.")
+
+#Integers
